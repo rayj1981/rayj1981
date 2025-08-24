@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @rayj1981  
 
 👀 I’m interested in **Data Science, Machine Learning, and Statistics**  
-🌱 I’m currently learning **Data Science & Statistics at City Tech, CUNY**  
-💞️ I’m looking to collaborate on **ML projects, Python scripts, and Frontend work**  
+🌱 I’m currently learning **Data Science & Statistics at Baruch college, CUNY**  
+💞️ I’m looking to collaborate on **ML projects, Python scripts, and Data science work**  
 📫 How to reach me: **raymond.jiang1@baruchmail.cuny.edu**  
 😄 Pronouns: **He/Him**  
-⚡ Fun fact: I once built a machine learning model that could classify images of fruits with **98% accuracy**!  
+
 
 ---
 
